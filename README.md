@@ -1,4 +1,33 @@
-# tooltip-hover
+# Tool Tip Project
+
+## ⭐ Introduction
+
+This is a Tool Tip Project which is built using Reactjs ,CSS  . It is responsive across all devices.
+<br/>
+<br/>
+
+## Features
+- On hovering of the button I should show a tooltip.
+- The component will receive the ‘position‘ of tooltip as prop. In the GIF (see
+below). We can pass options : “top”, “bottom”, “right”, “left”.
+-According to the position the tooltip should render at that position
+<br/>
+<br/>
+
+
+
+
+## 🔗 Links
+> ## CheckOut the website link https://tool-tip-reactjs.netlify.app/ 
+<br/>
+<br/>
+## 💻 Screens
+
+### Tool Tip 
+
+
+![Screenshot (91)](https://user-images.githubusercontent.com/98112293/212316650-b9614dcf-acd6-4804-8fc8-fcf9ca5d2dab.png)
+
 
 
 # Getting Started with Create React App
